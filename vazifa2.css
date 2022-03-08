@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+}
+.body{
+    background-color: rgb(179, 214, 150);
+    display: flex;
+    justify-content: center;
+}
+.div{
+    width: 750px;
+    height: 450px;
+    background-color: white;
+    margin-top: 130px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.div1{
+    width: 748px;
+    height: 80px;
+    border: 1px solid rgba(128, 128, 128, 0.404);
+    display: flex;
+    align-items: center;
+}
+.div2{
+    width: 340px;
+    height: 367px;
+    border: 1px solid rgba(128, 128, 128, 0.425);
+}
+.div3{
+    width: 406px;
+    height: 367px;
+    border: 1px solid rgba(128, 128, 128, 0.438);
+}
+.fa-angle-left{
+    color: rgba(128, 128, 128, 0.76);
+    padding-left: 30px;
+    font-size: 25px;
+}
+.p{
+    font-family: sans-serif;
+    color: rgba(128, 128, 128, 0.541);
+    padding-left: 20px; 
+}
+.fa-heart{
+    padding-left: 460px;
+    font-size: 30px;
+}
+.img{
+    width: 340px;
+    height: 367px;
+}
+.h2{
+    font-family: sans-serif;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.671);
+    padding-top: 35px;
+    padding-left: 30px;
+}
+.popular{
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.438);
+    font-weight: 600;
+    padding-left: 30px;
+    font-size: 13px;
+}
+.h1{
+    font-size: 40px;
+    padding-left: 30px;
+    padding-top: 20px;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 0.658);
+}
+.classic{
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-left: 30px;
+    line-height: 30px;
+    color: rgba(0, 0, 0, 0.575);
+}
+.btn{
+    font-family: sans-serif;
+    width: 150px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 700;
+    background-color: white;
+    color: rgba(0, 0, 0, 0.548);
+    outline: none;
+    border: 2px solid rgba(0, 0, 0, 0.185);
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.bnt{
+    font-family: sans-serif;
+    width: 150px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 700;
+    background-color: white;
+    color: rgba(0, 0, 0, 0.548);
+    outline: none;
+    border: 2px solid rgba(0, 0, 0, 0.185);
+    margin-left: 12px;
+}
